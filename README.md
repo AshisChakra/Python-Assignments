@@ -1,24 +1,31 @@
 # 🐍 Python Assignments
 
-This repository contains beginner-level Python assignments organized by modules and topics. Each assignment folder contains Python scripts along with its own README file explaining the tasks and expected outputs.
-
-## 📂 Assignments
-
-- [Assignment 1](./Assignment_1/) – Basic Input/Output and Arithmetic Operations
-- [Assignment 2](./Assignment_2/) – Control Structures in Python
-
-## 🔧 How to Use
-
-1. Navigate to the folder of the assignment you're interested in.
-2. Open or download the `.py` files to run them locally.
-3. Follow the instructions provided in each folder's `README.md`.
+This repository contains beginner-level Python assignments organized by module, topic, and folder. Each assignment folder contains `.py` scripts and a `README.md` explaining the tasks and outputs.
 
 ---
 
-## 📌 Topics Covered
+## 📂 Assignments Overview
+
+- [Assignment 1](./Assignment_1/) – Input/Output and Arithmetic Operations
+- [Assignment 2](./Assignment_2/) – Control Structures (If-Else & Loops)
+- [Assignment 3](./Assignment_3/) – Functions & Modules
+
+---
+
+## 🔧 How to Use
+
+1. Navigate into the assignment folder.
+2. Open the `.py` files to view or run the code.
+3. Each folder contains a `README.md` with task explanations and sample outputs.
+
+---
+
+## 🧠 Topics Covered
 
 - Input/Output
-- Arithmetic operations
-- String formatting
-- If-else conditions
-- Loops (for, while)
+- Arithmetic Operators
+- String Formatting
+- If-Else Conditions
+- Loops
+- Functions
+- Modules (e.g., `math`)
